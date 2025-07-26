@@ -1,5 +1,4 @@
-<!-- Banner -->
-<img src="https://your-zaptalk-banner-url.svg" alt="ZapTalk banner"/>
+
 
 <h1 align="center">Hi 👋, I'm Vishesh</h1>
 
@@ -36,9 +35,9 @@
 ### 🌐 Let's Connect and Grow Together!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-profile/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/vishesh-tiwari-3153922b1/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.youtube.com/@your-channel"><img src="https://img.shields.io/badge/Youtube-red?style=flat&logo=youtube&logoColor=white"/></a>
-  <a href="https://www.instagram.com/your-handle"><img src="https://img.shields.io/badge/Instagram-pink?style=flat&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.instagram.com/vishesh.t03/"><img src="https://img.shields.io/badge/Instagram-pink?style=flat&logo=instagram&logoColor=white"/></a>
 </p>
 
 ---
@@ -62,7 +61,7 @@ When I'm not coding, you might find me sketching UI ideas, listening to indie mu
 
 <!-- Replace with your actual stats provider or image -->
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/vishesh6392?ext=heatmap" />
+  <img src="https://leetcode.com/u/cJ9t47IEPZ/" />
 </p>
 
 ---
