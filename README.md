@@ -61,7 +61,27 @@ When I'm not coding, you might find me sketching UI ideas, listening to indie mu
 
 <!-- Replace with your actual stats provider or image -->
 <p align="center">
-  <img src="https://leetcode.com/u/cJ9t47IEPZ/" />
+   # 👨‍💻 Vishesh Tiwari
+
+**Student | GGSIPU Delhi**  
+Languages: `C++`, `Python`, `JavaScript`  
+Interests: AI, ML, Backend, Problem Solving
+
+## 📊 LeetCode Stats
+
+🔗 [My LeetCode Profile](https://leetcode.com/cJ9t47lEPZ/)
+
+![LeetCode Stats](https://raw.githubusercontent.com/<your-username>/<repo-name>/main/assets/images/leetcode-stats.png)
+
+- **Solved:** 292 / 3626  
+- **Easy:** 86  **Medium:** 185  **Hard:** 21  
+- **Contest Rating:** 1418  
+- **Global Rank:** 546,273  
+- **Top:** 75.67%  
+- **Submissions (1 year):** 681  
+- **Streak:** Max 18 days
+
+
 </p>
 
 ---
