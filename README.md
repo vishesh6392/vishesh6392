@@ -69,17 +69,17 @@ Interests: AI, ML, Backend, Problem Solving
 
 ## 📊 LeetCode Stats
 
-🔗 [My LeetCode Profile](https://leetcode.com/cJ9t47lEPZ/)
+🔗 [My LeetCode Profile](https://leetcode.com/u/Vishesh_2003/)
 
-![LeetCode Stats](https://raw.githubusercontent.com/<your-username>/<repo-name>/main/assets/images/leetcode-stats.png)
+![LeetCode Stats](<img width="243" height="115" alt="image" src="https://github.com/user-attachments/assets/3e21654e-ddf7-4451-ab4c-a8b661046c40" />)
 
-- **Solved:** 292 / 3626  
-- **Easy:** 86  **Medium:** 185  **Hard:** 21  
+
+- **Solved:** 338 / 3626  
+- **Easy:** 91  **Medium:** 223  **Hard:** 24  
 - **Contest Rating:** 1418  
 - **Global Rank:** 546,273  
-- **Top:** 75.67%  
-- **Submissions (1 year):** 681  
-- **Streak:** Max 18 days
+- **Top:** 91.06%  
+- **Submissions (1 year):** 810  
 
 
 </p>
